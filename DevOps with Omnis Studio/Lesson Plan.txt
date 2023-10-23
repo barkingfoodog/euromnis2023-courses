@@ -1,0 +1,20 @@
+- Slides
+- Load OmnisCI VM
+- Show basic app
+- Make a change
+- Run a build
+- Show the app with the change
+- Make a breaking change
+- Diagnose the failure
+- Fix the problem
+- Re-run the build
+- Make a branch
+- Commit a change to the branch
+- Merge the branch
+- Run a build
+- Show the change in the build
+- Make another change to the branch
+- Make a bug fix branch
+- Make a fix and merge to master
+- Run the build
+- Show the feature branch isn't present
